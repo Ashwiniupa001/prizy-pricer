@@ -1,6 +1,6 @@
 Clone Project
 -------------
-git clone https://github.com/guptasujeet/dynamic-pricer.git
+git clone https://github.com/Ashwiniupa001/prizy-pricer.git
 
 
 App Usage
